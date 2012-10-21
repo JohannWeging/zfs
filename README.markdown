@@ -1,3 +1,6 @@
+THIS FORK OF ZFS IS FOR DEVELOPMENT ONLY! 
+This version of zfs is patched to be able to write to zpools from user space.
+
 Native ZFS for Linux! ZFS is an advanced file system and volume manager
 which was originally developed for Solaris. It has been successfully 
 ported to FreeBSD and now there is a functional Linux ZFS kernel port
